@@ -1,6 +1,6 @@
-files.cpp = main.cpp Animals.cpp Dog.cpp Cat.cpp
+files.cpp = main.cpp Animals.cpp Dog.cpp Cat.cpp Brain.cpp
 
-files.hpp = Animals.hpp Dog.hpp Cat.hpp
+files.hpp = Animals.hpp Dog.hpp Cat.hpp Brain.hpp
 
 CFLAGS = -Wall -Wextra -Werror
 
